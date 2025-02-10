@@ -3,7 +3,7 @@ Impact of Air Quality on Urban Health Outcomes Explore how variations in air qua
 
 # Scope
 * Compare Dublin to a city in China or India or Canada (wild fire areas?)
-daily PM10 or PM2.5 data for a town in Ireland per year - [https://eparesearch.epa.ie/safer/downloadValidityCheck.jsp](https://eparesearch.epa.ie/safer/dataAndResources/mostPopularResources.jsp?type=download)
+daily PM10 or PM2.5 data for a town in Ireland per year - [EPA Ireland](https://eparesearch.epa.ie/safer/dataAndResources/mostPopularResources.jsp?type=download)
 
 * Look at data over the last 5-10 years.
 
