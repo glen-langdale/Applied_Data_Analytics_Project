@@ -10,3 +10,6 @@ daily PM10 or PM2.5 data for a town in Ireland per year - [EPA Ireland](https://
 * Predict the impact in 2035
 # Weekly Journal
 [Tasks](https://studentdkit-my.sharepoint.com/:x:/r/personal/mullaneyh_dkit_ie/_layouts/15/Doc.aspx?sourcedoc=%7BCEE35F03-E29F-49CE-80E3-1F5A28AA4116%7D&file=Leon%20Smyth_Weekly%20Goals.xlsx&action=default&mobileredirect=true)
+# India Health Data
+https://www.data.gov.in/catalog/hmis-sub-district-level-item-wise-monthly-report-delhi
+
